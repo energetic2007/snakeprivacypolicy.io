@@ -1,1 +1,1 @@
-# snakeprivacypolicy.io
+# appSnakePrivacyPolicy
